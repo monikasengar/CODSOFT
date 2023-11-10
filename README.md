@@ -1,2 +1,2 @@
 # CODSOFT
-# Contains three trasks of python 1 month internship
+# It contains three trasks of python 1 month internship
